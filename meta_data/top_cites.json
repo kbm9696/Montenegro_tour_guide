@@ -1,0 +1,101 @@
+{
+  "top_cities": {
+    "Podgorica": {
+      "summary": "Podgorica is the capital and largest city of Montenegro. It is a cultural, administrative, and economic center of the country.",
+      "coordinates": {
+        "latitude": 42.4304,
+        "longitude": 19.2594
+      },
+      "website": "https://podgorica.me/en",
+      "images": [
+        "bafkreiheviy3ewnszh7354tmwtwlqfywzara6noh7555h5fei6vdkne7vy",
+        "bafkreibaa34beazjtl3h2ti4hy2nmqmbk3a3krjw3tvqsa4zfhrlhawx2q",
+        "bafkreidwlwuhidmabolekelwb7wocc7jp2sccnpr7m7rjtuegszenizw2e",
+        "bafkreifo55gai7stssqpvye5p2yesj6dt4cjj7yagn5a6vkyivjmzqgfza",
+        "bafkreickiqwhtdudoaeotpkyxqqulonam7n2erm2mozqhglojw2h62uw34"
+      ]
+    },
+    "Nikšić": {
+      "summary": "Nikšić is the second-largest city in Montenegro known for its industrial and cultural heritage.",
+      "coordinates": {
+        "latitude": 42.7762,
+        "longitude": 18.9564
+      },
+      "images": [
+        "bafkreieiag5a3pcep4iwminlvm7fdsvyoef3lgzyog7idl3apurmkzyxzu",
+        "bafkreigimspy4uxuqa532u73vfvzxlywgn4ztxbpsqsqbenb5oymrxbceq",
+        "bafkreifuftjsrr6e6g7mqnvzepsu6bmvydt2jwk7fnnctigmzvhirfsn3y",
+        "bafkreiclilqyzfbd5jh2llgep4g2kau6cakqrto5ivgbb2lk5g6sz5rbpa",
+        "bafkreicvifnibjlo5hmymx7qha52puq2icniv3u5jrvfgcb3oxdevtfx7y"
+      ]
+    },
+    "Pljevlja": {
+      "summary": "Pljevlja is a city located in the north of Montenegro. It is known for its mining industry and rich history.",
+      "coordinates": {
+        "latitude": 43.3549,
+        "longitude": 19.3582
+      },
+      "images": [
+        "bafkreig5cc3abxmrhza37dilc3ltmecjopwxfslid3v5w3xqxhk5exknny",
+        "bafkreicvb4sb6zozpj4ltxjidounxcp6dtpdlycmrz5udpb3xgiwuqwcri",
+        "bafkreig3zcitfhjufhkux2cz3wgdqw7lq455bqo26eic6vgnom35qppq3a",
+        "bafkreigdig67jk6ycc7mlj7qqyzvbv4eiblhalw6orau5dlb6epcepmnqa",
+        "bafkreihiywaddkzwggjs2lge6xpbm263xiidskugw4yqr7mhcf2o25fabu"
+      ]
+    },
+    "Bijelo Polje": {
+      "summary": "Bijelo Polje is a town situated in the northern part of Montenegro, known for its multiculturalism and natural beauty.",
+      "coordinates": {
+        "latitude": 43.0297,
+        "longitude": 19.7473
+      },
+      "images": [
+        "bafkreidunislw3vvvrvxehb33kwsvlzov35s5fxncijitqkt5y2wyqslq4",
+        "bafkreicmpziewflzr36qqef7ekt5jpuskgmcrfjsoyqpapxzozslivnf3m",
+        "bafkreifmbllmcr6zv7m5shlxtu3575uhlkymd2kxbw6ak5wo4qioeni65q",
+        "bafkreigbutdrdeae5bcbw7tdg5wcm3uxchshi6werj5tryigtu3sdcmffy",
+        "bafkreigi4diau7uuobtv5m4vbuc5lsufrvxq4advliac4ypcl6coxqz2em"
+      ]
+    },
+    "Cetinje": {
+      "summary": "Cetinje is a historic town and former royal capital of Montenegro. It is known for its cultural and historical significance.",
+      "coordinates": {
+        "latitude": 42.3904,
+        "longitude": 18.9158
+      },
+      "images": [
+        "bafkreiaijamq34ni2en5oyw6s5ctmulihm6nas56u2aiojrj77fniwjwau",
+        "bafkreic2qlo637qv5pzr4thoopw4pw4slj3kzv5jznkfrfopulahh46baq",
+        "bafkreie4qsme3j4dzesx7zedbcnn3wfve6fau5yr4yznwe3agzno4e4zvq",
+        "bafkreiecx44ild73d5mcjbha4pikf72xfhr62ja4sptexijmig5bey73di",
+        "bafkreibuft3wvxs7uph47xu5rmy27stt3sdar73eweehaauaxotv6rwhvm"
+      ]
+    }
+  },
+  "top_health_institutes": [
+    "Clinical Centre of Montenegro, Podgorica",
+    "General Hospital Nikšić",
+    "General Hospital Pljevlja",
+    "General Hospital Bijelo Polje",
+    "Clinical Hospital Center Cetinje"
+  ],
+  "low_cost_medical_procedures": [
+    "Dental treatments",
+    "Eye surgeries",
+    "Cosmetic procedures",
+    "Minor surgeries",
+    "Laboratory tests"
+  ],
+  "top_tourist_spots":[
+    "Biogradska Gora National Park",
+    "Ulcinj",
+    "Sveti Stefan",
+    "Mount Lovcen",
+    "Cetinje",
+    "Ostrog Monastery",
+    "Perast",
+    "Durmitor National Park",
+    "Budva",
+    "Kotor"
+  ]
+}

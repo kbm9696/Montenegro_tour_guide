@@ -1,0 +1,258 @@
+[
+    {
+        "Name of medical facility": "Clinical Centre of Montenegro- Klini\u010dki centar Crne Gore",
+        "Telephone": "382 (0)20 412 412",
+        "Address": "Ljubljanska bb, Podgorica",
+        "Public / Private facility": "Public",
+        "website": "https://kccg.me/",
+        "images": []
+    },
+    {
+        "Name of medical facility": "Emergency Centre of Montenegro - Zavod za hitnu medicinsku pomo\u0107 Crne Gore",
+        "Telephone": "382 (0)20 226 081",
+        "Address": "Vaka \u0110urovi\u0107a bb, Podgorica",
+        "Public / Private facility": "Public",
+        "website": "https://www.hitna.me/",
+        "images": []
+    },
+    {
+        "Name of medical facility": "Primary Health Care Centre Andrijevica - Dom zdravlja Andrijevica",
+        "Telephone": "382 (0)51 243 407",
+        "Address": "Branka Deleti\u0107a bb, Andrijevica",
+        "Public / Private facility": "Public",
+        "website": "http://domzdravljaandrijevica.me/donacije/",
+        "images": []
+    },
+    {
+        "Name of medical facility": "General Hospital Bar - Op\u0161ta bolnica \u201cBla\u017eo Orlandi\u0107\u201d Bar",
+        "Telephone": "382 (0)30 342 333",
+        "Address": "Podgrad bb, Stari Bar, Bar",
+        "Public / Private facility": "Public",
+        "website": " https://www.bolnicabar.me/",
+        "images": []
+    },
+    {
+        "Name of medical facility": "Primary Health Care Centre Bar - Dom zdravlja Bar",
+        "Telephone": "382 (0)30 311 001",
+        "Address": "Jovana Toma\u0161evi\u0107a 42, Bar",
+        "Public / Private facility": "Public",
+        "website": "",
+        "images": []
+    },
+    {
+        "Name of medical facility": "General Hospital Berane - Op\u0161ta bolnica Berane",
+        "Telephone": "382 (0)51 230 630",
+        "Address": "Svetosavska 33, Berane",
+        "Public / Private facility": "Public",
+        "website": "",
+        "images": []
+    },
+    {
+        "Name of medical facility": "Primary Health Care Centre Berane - Dom zdravlja Berane",
+        "Telephone": "382 (0)51 233 325",
+        "Address": "Miljana Tomi\u010di\u0107a bb, Berane",
+        "Public / Private facility": "Public",
+        "website": "",
+        "images": []
+    },
+    {
+        "Name of medical facility": "General Hospital Bijelo Polje - Op\u0161ta bolnica Bijelo Polje",
+        "Telephone": "382 (0)50 486 105",
+        "Address": "Medanovi\u0107a bb, Bijelo Polje",
+        "Public / Private facility": "Public",
+        "website": "",
+        "images": []
+    },
+    {
+        "Name of medical facility": "Primary Health Care Centre Bijelo Polje - Dom zdravlja Bijelo Polje",
+        "Telephone": "382 (0)50 432 327",
+        "Address": "Voja Lje\u0161njaka bb, Bijelo Polje",
+        "Public / Private facility": "Public",
+        "website": "",
+        "images": []
+    },
+    {
+        "Name of medical facility": "Primary Health Care Centre Budva - Dom zdravlja Budva",
+        "Telephone": "382 (0)33 427 200",
+        "Address": "Popa Jola Zeca, Budva",
+        "Public / Private facility": "Public",
+        "website": "",
+        "images": []
+    },
+    {
+        "Name of medical facility": "General Hospital Cetinje - Op\u0161ta bolnica \u201cDanilo I\u201d Cetinje",
+        "Telephone": "382 (0)41 231 336",
+        "Address": "Vuka Mi\u0107unovi\u0107a bb, Cetinje",
+        "Public / Private facility": "Public",
+        "website": "",
+        "images": []
+    },
+    {
+        "Name of medical facility": "Primary Health Care Centre Cetinje- Dom zdravlja Cetinje",
+        "Telephone": "382 (0)41 231 379",
+        "Address": "Vuka Mi\u0107unovi\u0107a bb, Cetinje",
+        "Public / Private facility": "Public",
+        "website": "",
+        "images": []
+    },
+    {
+        "Name of medical facility": "Primary Health Care Centre Danilovgrad- Dom zdravlja Danilovgrad",
+        "Telephone": "382 (0)20 812 106",
+        "Address": "Prve boke\u0161ke bb, Danilovgrad",
+        "Public / Private facility": "Public",
+        "website": "",
+        "images": []
+    },
+    {
+        "Name of medical facility": "Primary Health Care Centre Herceg Novi - Dom zdravlja Herceg Novi",
+        "Telephone": "382 (0)31 343 111",
+        "Address": "Nikole Ljubibrati\u0107a 1, Herceg Novi",
+        "Public / Private facility": "Public",
+        "website": "",
+        "images": []
+    },
+    {
+        "Name of medical facility": "Primary Health Care Centre Kola\u0161in - Dom zdravlja Kola\u0161in",
+        "Telephone": "382 (0)20 865 140",
+        "Address": "Dunje \u0110oki\u0107 bb, Kola\u0161in",
+        "Public / Private facility": "Public",
+        "website": "",
+        "images": []
+    },
+    {
+        "Name of medical facility": "General Hospital Kotor- Op\u0161ta bolnica Kotor",
+        "Telephone": "382 (0)32 325 602",
+        "Address": "\u0160kaljari bb, Kotor",
+        "Public / Private facility": "Public",
+        "website": "",
+        "images": []
+    },
+    {
+        "Name of medical facility": "Special Hospital for Psychiatry Kotor- Specijalna bolnica za psihijatriju Kotor",
+        "Telephone": "382 (0)32 330 920",
+        "Address": "Dobrota bb, Kotor",
+        "Public / Private facility": "Public",
+        "website": "",
+        "images": []
+    },
+    {
+        "Name of medical facility": "Primary Health Care Centre Kotor - Dom zdravlja Kotor",
+        "Telephone": "382 (0)32 334 533",
+        "Address": "Dobrota bb, Kotor",
+        "Public / Private facility": "Public",
+        "website": "",
+        "images": []
+    },
+    {
+        "Name of medical facility": "Special Hospital for Orthopaedics, Neurosurgery and Neurology \u201cVaso \u0106ukovi\u0107\u201d Risan - Specijalna bolnica za ortopediju, neurohirurgiju i neurologiju \u201cVaso \u0106ukovi\u0107\u201d Risan",
+        "Telephone": "382 (0)32 371 099",
+        "Address": "Risan",
+        "Public / Private facility": "Public",
+        "website": "",
+        "images": []
+    },
+    {
+        "Name of medical facility": "Primary Health Care Centre Mojkovac - Dom zdravlja Mojkovac",
+        "Telephone": "382 (0)50 472 165",
+        "Address": "Njego\u0161eva bb, Mojkovac",
+        "Public / Private facility": "Public",
+        "website": "",
+        "images": []
+    },
+    {
+        "Name of medical facility": "General Hospital Nik\u0161i\u0107+A2- Op\u0161ta bolnica Nik\u0161i\u0107",
+        "Telephone": "382 (0)40 231 111",
+        "Address": "Nikca od Rovina bb, Nik\u0161i\u0107",
+        "Public / Private facility": "Public",
+        "website": "",
+        "images": []
+    },
+    {
+        "Name of medical facility": "Special Hospital for Pulmonary diseases \u201cdr Jovan Bulaji\u0107\u201d- Specijalna bolnica za plu\u0107ne bolesti \u201cdr Jovan Bulaji\u0107\u201d",
+        "Telephone": "382 (0)40 217 011",
+        "Address": "Brezovik, Nik\u0161i\u0107",
+        "Public / Private facility": "Public",
+        "website": "",
+        "images": []
+    },
+    {
+        "Name of medical facility": "Primary Health Care Centre Nik\u0161i\u0107 - Dom zdravlja Nik\u0161i\u0107",
+        "Telephone": "382 (0)40 231 202",
+        "Address": "Dr Nika Miljani\u0107a bb, Nik\u0161i\u0107",
+        "Public / Private facility": "Public",
+        "website": "",
+        "images": []
+    },
+    {
+        "Name of medical facility": "Primary Health Care Centre Plav - Dom zdravlja Plav",
+        "Telephone": "382 0800 81 4400",
+        "Address": "Hridska bb, Plav",
+        "Public / Private facility": "Public",
+        "website": "",
+        "images": []
+    },
+    {
+        "Name of medical facility": "General Hospital Pljevlja- Op\u0161ta bolnica Pljevlja",
+        "Telephone": "382 (0)52 300 168",
+        "Address": "Lov\u0107enskog bataljona bb, Pljevlja",
+        "Public / Private facility": "Public",
+        "website": "",
+        "images": []
+    },
+    {
+        "Name of medical facility": "Primary Health Care Centre Pljevlja - Dom zdravlja Pljevlja",
+        "Telephone": "382 (0)52 321 193",
+        "Address": "Lov\u0107enskog bataljona bb, Pljevlja",
+        "Public / Private facility": "Public",
+        "website": "",
+        "images": []
+    },
+    {
+        "Name of medical facility": "Health Unit \u017dabljak - Zdravstvena stanica \u017dabljak",
+        "Telephone": "382 (0)67 613 158",
+        "Address": "Zdravstvena stanica bb, \u017dabljak",
+        "Public / Private facility": "Public",
+        "website": "",
+        "images": []
+    },
+    {
+        "Name of medical facility": "Primary Health Care Centre Podgorica - Dom zdravlja Podgorica",
+        "Telephone": "382 (0)20 481 900",
+        "Address": "Trg Nikole Kova\u010devi\u0107a 6, Podgorica",
+        "Public / Private facility": "Public",
+        "website": "",
+        "images": []
+    },
+    {
+        "Name of medical facility": "Centre for accommodation, rehabilitation and resocialisation of psychoactive substances users Kakaricka gora",
+        "Telephone": "382 (0)20 611 847",
+        "Address": "Kakaricka gora, Podgorica",
+        "Public / Private facility": "Public",
+        "website": "",
+        "images": []
+    },
+    {
+        "Name of medical facility": "Primary Health Care Centre Ro\u017eaje - Dom zdravlja Ro\u017eaje",
+        "Telephone": "382 (0)51 273 676",
+        "Address": "29 novembra bb, Ro\u017eaje",
+        "Public / Private facility": "Public",
+        "website": "",
+        "images": []
+    },
+    {
+        "Name of medical facility": "Primary Health Care Centre Tivat - Dom zdravlja Tivat",
+        "Telephone": "382 (0)32 671 774",
+        "Address": "Park bb, Tivat",
+        "Public / Private facility": "Public",
+        "website": "",
+        "images": []
+    },
+    {
+        "Name of medical facility": "Primary Health Care Centre Ulcinj - Dom zdravlja Ulcinj",
+        "Telephone": "382 (0)30 412 433",
+        "Address": "Majke Tereze bb, Ulcinj",
+        "Public / Private facility": "Public",
+        "website": "",
+        "images": []
+    }
+]
